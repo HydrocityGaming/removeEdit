@@ -1,0 +1,4 @@
+removeEdit
+==========
+
+Removes edit buttons.
